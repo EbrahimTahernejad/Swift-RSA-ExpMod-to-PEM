@@ -24,3 +24,5 @@ h/KCyy8X8C2bHsFpNBvwGTqMwHbqZqWBVUvYRtfCFcy3Xmertb09DnOBeWqKS418
 +HNaIveoYe8+Lb7b/mZYtlhrDK0i/8EDox85vxnzKZ7wNswqqcDg6vfC2911phST
 Ph13jv2FIOkjO/WHhHEzRnS2VQqivqIbsQIDAQAB
 ```
+
+You can use the result in [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA)
