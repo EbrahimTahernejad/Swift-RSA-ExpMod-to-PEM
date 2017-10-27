@@ -1,6 +1,10 @@
 # Swift RSA Exp+Mod to PEM(PublicKey)
 
-Convert EXP+MOD to PEM (RSA Public Key)
+Create RSA Public Key PEM from Modulus and Exponent value in Swift, without using any dependency.
+
+This allows you to use the modulus/exponent values for validating signed value.
+
+The original code is based on [this project](https://github.com/tracker1/node-rsa-pem-from-mod-exp)
 
 EZ to use!
 
@@ -20,6 +24,3 @@ h/KCyy8X8C2bHsFpNBvwGTqMwHbqZqWBVUvYRtfCFcy3Xmertb09DnOBeWqKS418
 +HNaIveoYe8+Lb7b/mZYtlhrDK0i/8EDox85vxnzKZ7wNswqqcDg6vfC2911phST
 Ph13jv2FIOkjO/WHhHEzRnS2VQqivqIbsQIDAQAB
 ```
-
-
-base: [here](https://github.com/tracker1/node-rsa-pem-from-mod-exp)
