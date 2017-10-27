@@ -1,4 +1,4 @@
-# Swift RSA Exp+Mod to PEM(PublicKey)
+# Swift RSA Exp+Mod to PEM
 
 Create RSA Public Key PEM from Modulus and Exponent value in Swift, without using any dependency.
 
